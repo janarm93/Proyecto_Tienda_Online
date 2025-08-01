@@ -5,9 +5,9 @@ Este proyecto crea una tienda online con Python que permite **controlar y modifi
 
 📁 El proyecto incluye:
 
-- Este `README.md` 📄
-- Un Jupyter Notebook llamado **TiendaOnline.ipynb** 🧠💻
-- Comprobaciones para verificar el correcto funcionamiento del código ✅
+- Este `README.md`
+- Un Jupyter Notebook llamado **TiendaOnline.ipynb**
+- Comprobaciones para verificar el correcto funcionamiento del código
 
 ---
 
