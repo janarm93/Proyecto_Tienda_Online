@@ -3,7 +3,7 @@
 
 Este proyecto crea una tienda online con Python que permite **controlar y modificar el inventario** de la tienda y **gestionar las compras de clientes/as**.
 
-📁 El proyecto incluye:
+El proyecto incluye:
 
 - Este `README.md`
 - Un Jupyter Notebook llamado **TiendaOnline.ipynb**
