@@ -27,8 +27,7 @@ Este proyecto crea una tienda online con Python que permite **controlar y modifi
 
 ## Contexto
 
-Este proyecto forma parte de la **evaluación individual** del *Módulo 1: Introducción a la programación con Python*  
-del **Bootcamp de Data Analysis de Adalab**.
+Este proyecto forma parte de la **evaluación individual** del *Módulo 1 de programación con Python* del **Bootcamp de Data Analysis de Adalab**.
 
 ---
 
